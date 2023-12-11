@@ -1,6 +1,6 @@
 # Articles of Association
 
-Pursuant to articles 60 et sqq. Swiss Civil Code (Schweizerisches Zivilgesetzbuch), an association is
+Pursuant to articles 60 et seq. Swiss Civil Code (Schweizerisches Zivilgesetzbuch), an association is
 organized under the name „Bitcoin Association Switzerland“ (hereinafter the “Association”).
 
 ## Art. 1 Objective
