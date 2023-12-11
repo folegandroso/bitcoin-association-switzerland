@@ -20,7 +20,7 @@ Members in the Members' Assembly.
 (3) The resignation of a member is possible any time and is effected by
 notification to the Board.
 
-(4) Dismissal of a member is permissible in cases of gross misconduct by
+(4) Exclusion of a member from the Association is permissible in cases of gross misconduct by
 resolution of the Members‘ Assembly.
 
 ## Art. 3 Bodies of the Association
