@@ -36,8 +36,8 @@ The bodies of the Association are
 (1) The Board consists of at least the President who is responsible for the overall 
 activities of the Association. In addition, the Members’ Assembly may appoint
 
-* (a) a Secretary
-* (b) a Treasurer and
+* (a) a Secretary,
+* (b) a Treasurer, and
 * (c) other members
 
 to the Board.
@@ -56,9 +56,8 @@ one member, two members shall represent the Association collectively.
 
 * (a) a report of activities of the previous year,
 * (b) the yearly accounts,
-* (c) a budget plan (investments and expenditures for the coming year) and
-* (d) a program of the Association’s activities planned for the coming
-year.
+* (c) a budget plan (investments and expenditures for the coming year), and
+* (d) a program of the Association’s activities planned for the coming year.
 
 (3) The Board organizes the Members’ Assembly.
 
